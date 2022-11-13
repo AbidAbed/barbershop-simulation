@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.barbershopsimulation.SimulationPageController">
+   <children>
+      <Button fx:id="nextEvent" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#generateNextEvent" text="Next Event" />
+      <Button fx:id="auto" layoutX="98.0" layoutY="14.0" mnemonicParsing="false" onAction="#autoComplete" text="Auto Complete" />
+      <ImageView fx:id="barberShop" fitHeight="101.0" fitWidth="116.0" layoutX="370.0" layoutY="77.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../barbershopEmpty.PNG" />
+         </image></ImageView>
+      <ImageView fx:id="queue" fitHeight="305.0" fitWidth="100.0" layoutX="486.0" layoutY="71.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../emptyqueue.png" />
+         </image></ImageView>
+      <TextArea fx:id="data" editable="false" layoutX="15.0" layoutY="51.0" prefHeight="339.0" prefWidth="346.0" text="***here all data will be shown whenevr you click***" />
+   </children>
+</AnchorPane>
