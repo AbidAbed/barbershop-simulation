@@ -66,6 +66,7 @@ public class SimulationPageController {
                     Simulation.setServerStatus(0);
                     simulation.generate();
                     simulation.setNextEventTime(Simulation.getNextArrTime());
+                    Simulation.setLastEventTime(0d);
                 }
                 ++repeatsCounter;
                 simulation.setEndOfSimu(false);

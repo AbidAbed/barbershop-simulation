@@ -74,7 +74,7 @@ Server utilization = 1.0000000000000002
 --Current simulation clock : 394.9011860110723
 Number of customers : 30
 Area under Q(t) : 1885.9077130412109
-Area under B(t) :-50.99387191528882
+Area under B(t) :394.9011860110722
 --Customer 1
 Arrival time : 17.71457050830867, Departure time : 47.328142439474796
 --Customer 2
@@ -137,14 +137,14 @@ Arrival time : 770.2012528875548, Departure time : 1175.6655901893707
 Arrival time : 776.1702114550357, Departure time : 1181.1688961666357
 Mean of customers = 4.775644591222711
 Mean of delay time = 546.4679382205461
-Server utilization = -0.12913071350932598
+Server utilization = 0.9999999999999997
 ******************************************************* SIMULATION OF (3) ********
 --Number of delay : 10
 --Total delay : 3991.5970505222995
 --Current simulation clock : 441.5800034592863
 Number of customers : 30
 Area under Q(t) : 2019.5023600214554
-Area under B(t) :46.67881744821392
+Area under B(t) :441.5800034592863
 --Customer 1
 Arrival time : 24.0754455171892, Departure time : 52.83597321822584
 --Customer 2
@@ -207,14 +207,14 @@ Arrival time : 843.8790027783305, Departure time : 1281.1459257027482
 Arrival time : 873.063929206334, Departure time : 1322.5950732057775
 Mean of customers = 4.5733555509781
 Mean of delay time = 399.1597050522299
-Server utilization = 0.10570863055966644
+Server utilization = 1.0
 ******************************************************* SIMULATION OF (4) ********
 --Number of delay : 9
 --Total delay : 4541.412533966841
 --Current simulation clock : 410.7694066002786
 Number of customers : 30
 Area under Q(t) : 2094.8554765345066
-Area under B(t) :-30.81059685900766
+Area under B(t) :410.76940660027856
 --Customer 1
 Arrival time : 17.585713278196835, Departure time : 41.87000288994069
 --Customer 2
@@ -277,14 +277,14 @@ Arrival time : 790.4555091848272, Departure time : 1209.7167635862545
 Arrival time : 801.6226171207136, Departure time : 1210.5824876565325
 Mean of customers = 5.099833246766157
 Mean of delay time = 504.60139266298233
-Server utilization = -0.07500703889807835
+Server utilization = 0.9999999999999999
 ******************************************************* SIMULATION OF (5) ********
 --Number of delay : 8
 --Total delay : 2788.4276340638735
 --Current simulation clock : 442.31672296146934
 Number of customers : 30
 Area under Q(t) : 2236.6192558756056
-Area under B(t) :31.547316361190667
+Area under B(t) :442.3167229614692
 --Customer 1
 Arrival time : 16.679353690297248, Departure time : 45.93333745020742
 --Customer 2
@@ -347,14 +347,14 @@ Arrival time : 847.0619139901219, Departure time : 1289.3947267641772
 Arrival time : 873.2555538954115, Departure time : 1320.3738350971828
 Mean of customers = 5.0566011633036085
 Mean of delay time = 348.5534542579842
-Server utilization = 0.07132291121613049
+Server utilization = 0.9999999999999998
 ******************************************************* SIMULATION OF (6) ********
 --Number of delay : 9
 --Total delay : 4596.625459247963
 --Current simulation clock : 422.74692334863823
 Number of customers : 30
 Area under Q(t) : 2124.849441828634
-Area under B(t) :-36.80223717098664
+Area under B(t) :405.5144857904829
 --Customer 1
 Arrival time : 18.202061176340543, Departure time : 35.43449873449599
 --Customer 2
@@ -417,14 +417,14 @@ Arrival time : 812.076968613578, Departure time : 1240.0757561855971
 Arrival time : 835.0943017023038, Departure time : 1265.3817598538008
 Mean of customers = 5.026291912422214
 Mean of delay time = 510.7361621386625
-Server utilization = -0.08705500889153944
+Server utilization = 0.9592369888309187
 ******************************************************* SIMULATION OF (7) ********
 --Number of delay : 9
 --Total delay : 3436.5612569816994
 --Current simulation clock : 429.48313470570247
 Number of customers : 30
 Area under Q(t) : 1962.6458166974253
-Area under B(t) :6.736211357064178
+Area under B(t) :429.48313470570235
 --Customer 1
 Arrival time : 11.027640718295853, Departure time : 29.19636193802075
 --Customer 2
@@ -487,14 +487,14 @@ Arrival time : 815.3602546067691, Departure time : 1233.181036483248
 Arrival time : 845.53121274866, Departure time : 1284.7462179507293
 Mean of customers = 4.569785535449028
 Mean of delay time = 381.8401396646333
-Server utilization = 0.015684460722025968
+Server utilization = 0.9999999999999998
 ******************************************************* SIMULATION OF (8) ********
 --Number of delay : 10
 --Total delay : 4887.685911117399
 --Current simulation clock : 426.41920770680224
 Number of customers : 30
 Area under Q(t) : 2020.366070994776
-Area under B(t) :-3.0639269989002287
+Area under B(t) :426.4192077068023
 --Customer 1
 Arrival time : 21.65543855049286, Departure time : 49.306148723701035
 --Customer 2
@@ -557,14 +557,14 @@ Arrival time : 835.3352668383382, Departure time : 1257.150255732014
 Arrival time : 838.146556098774, Departure time : 1270.0567969208628
 Mean of customers = 4.737980922247624
 Mean of delay time = 488.7685911117399
-Server utilization = -0.0071852462166923
+Server utilization = 1.0000000000000002
 ******************************************************* SIMULATION OF (9) ********
 --Number of delay : 10
 --Total delay : 4325.606576371917
 --Current simulation clock : 486.62777953716693
 Number of customers : 30
 Area under Q(t) : 2121.257175473474
-Area under B(t) :60.20857183036475
+Area under B(t) :486.627779537167
 --Customer 1
 Arrival time : 13.364598437710827, Departure time : 34.864333509840996
 --Customer 2
@@ -627,14 +627,14 @@ Arrival time : 946.7089926650327, Departure time : 1426.9198755214131
 Arrival time : 956.6997466560665, Departure time : 1453.4410244789935
 Mean of customers = 4.359095934660795
 Mean of delay time = 432.5606576371917
-Server utilization = 0.12372612983095477
+Server utilization = 1.0000000000000002
 ******************************************************* SIMULATION OF (10) ********
 --Number of delay : 9
 --Total delay : 4596.0993460199925
 --Current simulation clock : 409.8630608865624
 Number of customers : 30
 Area under Q(t) : 2040.0015732631637
-Area under B(t) :-76.7647186506046
+Area under B(t) :409.86306088656266
 --Customer 1
 Arrival time : 20.665476088861205, Departure time : 36.87252546190822
 --Customer 2
@@ -697,5 +697,5 @@ Arrival time : 806.9154491635845, Departure time : 1226.911960007895
 Arrival time : 809.5711871672444, Departure time : 1218.982313113663
 Mean of customers = 4.977275992743767
 Mean of delay time = 510.6777051133325
-Server utilization = -0.18729357674867594
+Server utilization = 1.0000000000000007
 ************************************************
