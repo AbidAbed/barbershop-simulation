@@ -24,7 +24,7 @@ public class MainPageController {
 
     public Boolean isInt(String string) {
         for (int i = 0; i < string.length(); i++) {
-            if ((int) string.charAt(i) <= 48 || (int) string.charAt(i) > 57) return false;
+            if ((int) string.charAt(i) < 48 || (int) string.charAt(i) > 57) return false;
         }
         return true;
     }

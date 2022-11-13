@@ -1,0 +1,701 @@
+******* SIMULATION OF (1) ********
+--Number of delay : 10
+--Total delay : 3748.744161845301
+--Current simulation clock : 445.89505792636123
+Number of customers : 30
+Area under Q(t) : 2087.3641777394932
+Area under B(t) :445.8950579263613
+--Customer 1
+Arrival time : 20.83551972922695, Departure time : 43.58749661668216
+--Customer 2
+Arrival time : 57.46058786716921, Departure time : 103.03591822758801
+--Customer 3
+Arrival time : 85.3166131391826, Departure time : 150.914209179461
+--Customer 4
+Arrival time : 111.01533012561816, Departure time : 179.6098027558761
+--Customer 5
+Arrival time : 150.98125512016904, Departure time : 241.52729244252197
+--Customer 6
+Arrival time : 174.52243026073893, Departure time : 273.47036758025325
+--Customer 7
+Arrival time : 199.17883841663368, Departure time : 312.72295222544125
+--Customer 8
+Arrival time : 226.60207187917817, Departure time : 353.6367816763965
+--Customer 9
+Arrival time : 255.83680417832198, Departure time : 400.4640044393855
+--Customer 10
+Arrival time : 286.27095795530727, Departure time : 447.3065206792684
+--Customer 11
+Arrival time : 319.4424344510155, Departure time : 484.91228447643783
+--Customer 12
+Arrival time : 357.22982393772463, Departure time : 549.9965545728064
+--Customer 13
+Arrival time : 395.6820193548659, Departure time : 614.5585306379666
+--Customer 14
+Arrival time : 397.76139323031686, Departure time : 614.8913841585247
+--Customer 15
+Arrival time : 428.98419894768347, Departure time : 660.1078470302136
+--Customer 16
+Arrival time : 463.9773044774066, Departure time : 700.997557978
+--Customer 17
+Arrival time : 498.6191260002397, Departure time : 770.0088390168916
+--Customer 18
+Arrival time : 505.24402520936735, Departure time : 773.8038029265389
+--Customer 19
+Arrival time : 537.3639817649853, Departure time : 817.743462666793
+--Customer 20
+Arrival time : 578.16320567226, Departure time : 875.827113895403
+--Customer 21
+Arrival time : 611.1619838285503, Departure time : 927.4817156838924
+--Customer 22
+Arrival time : 636.1089525584641, Departure time : 972.5260045723771
+--Customer 23
+Arrival time : 662.6377632116537, Departure time : 1013.2682858653529
+--Customer 24
+Arrival time : 688.1107525847938, Departure time : 1050.8233015618384
+--Customer 25
+Arrival time : 720.198100489853, Departure time : 1090.76765417599
+--Customer 26
+Arrival time : 756.986815962211, Departure time : 1140.0546922623744
+--Customer 27
+Arrival time : 774.9043998842201, Departure time : 1173.6463125846933
+--Customer 28
+Arrival time : 812.4184179567005, Departure time : 1233.4005652488997
+--Customer 29
+Arrival time : 859.3061088697829, Departure time : 1306.726371339351
+--Customer 30
+Arrival time : 869.1836194824357, Departure time : 1307.4964927027418
+Mean of customers = 4.681290228796879
+Mean of delay time = 374.8744161845301
+Server utilization = 1.0000000000000002
+******************************************************* SIMULATION OF (2) ********
+--Number of delay : 10
+--Total delay : 5464.6793822054615
+--Current simulation clock : 394.9011860110723
+Number of customers : 30
+Area under Q(t) : 1885.9077130412109
+Area under B(t) :-50.99387191528882
+--Customer 1
+Arrival time : 17.71457050830867, Departure time : 47.328142439474796
+--Customer 2
+Arrival time : 48.06552538669901, Departure time : 90.91900067776237
+--Customer 3
+Arrival time : 80.91438551551394, Departure time : 136.02516291547627
+--Customer 4
+Arrival time : 107.59232381271843, Departure time : 180.14537287065775
+--Customer 5
+Arrival time : 138.92174306765196, Departure time : 216.50726897660843
+--Customer 6
+Arrival time : 166.41478538260407, Departure time : 268.3405738903345
+--Customer 7
+Arrival time : 206.2229159908621, Departure time : 315.0729251706916
+--Customer 8
+Arrival time : 238.7439752909551, Departure time : 372.4450881805881
+--Customer 9
+Arrival time : 261.84068014398827, Departure time : 416.4448178042353
+--Customer 10
+Arrival time : 282.6990398317715, Departure time : 430.6299884968352
+--Customer 11
+Arrival time : 310.03141043218875, Departure time : 483.12769140810497
+--Customer 12
+Arrival time : 334.20240574599586, Departure time : 512.4057484693396
+--Customer 13
+Arrival time : 360.08152148981117, Departure time : 555.321830158359
+--Customer 14
+Arrival time : 388.98424157436204, Departure time : 600.6984186630311
+--Customer 15
+Arrival time : 412.4944979573695, Departure time : 630.6929325152444
+--Customer 16
+Arrival time : 447.3030561811177, Departure time : 684.4620376375876
+--Customer 17
+Arrival time : 457.5546638301905, Departure time : 694.7081758768252
+--Customer 18
+Arrival time : 485.29595665034765, Departure time : 744.7150017235302
+--Customer 19
+Arrival time : 522.3154260184523, Departure time : 796.5667278992058
+--Customer 20
+Arrival time : 535.9079940310012, Departure time : 817.910235719776
+--Customer 21
+Arrival time : 564.5306149719543, Departure time : 869.5447314275641
+--Customer 22
+Arrival time : 599.0076829093402, Departure time : 915.1131384111028
+--Customer 23
+Arrival time : 609.1122218723658, Departure time : 928.6166436178172
+--Customer 24
+Arrival time : 634.3269192412461, Departure time : 970.6949823099834
+--Customer 25
+Arrival time : 663.3763028688045, Departure time : 1003.5366973338046
+--Customer 26
+Arrival time : 686.8614394344495, Departure time : 1049.5427297254355
+--Customer 27
+Arrival time : 720.1800180399644, Departure time : 1097.4896449001717
+--Customer 28
+Arrival time : 746.5865108276596, Departure time : 1133.5197892634787
+--Customer 29
+Arrival time : 770.2012528875548, Departure time : 1175.6655901893707
+--Customer 30
+Arrival time : 776.1702114550357, Departure time : 1181.1688961666357
+Mean of customers = 4.775644591222711
+Mean of delay time = 546.4679382205461
+Server utilization = -0.12913071350932598
+******************************************************* SIMULATION OF (3) ********
+--Number of delay : 10
+--Total delay : 3991.5970505222995
+--Current simulation clock : 441.5800034592863
+Number of customers : 30
+Area under Q(t) : 2019.5023600214554
+Area under B(t) :46.67881744821392
+--Customer 1
+Arrival time : 24.0754455171892, Departure time : 52.83597321822584
+--Customer 2
+Arrival time : 69.80890810713387, Departure time : 112.14524927001224
+--Customer 3
+Arrival time : 109.85715724357905, Departure time : 174.75071117002932
+--Customer 4
+Arrival time : 130.14011989887817, Departure time : 204.37639148872813
+--Customer 5
+Arrival time : 173.3986614770202, Departure time : 279.8490356981297
+--Customer 6
+Arrival time : 190.80397818233882, Departure time : 301.7056070078862
+--Customer 7
+Arrival time : 219.14363467414904, Departure time : 351.0442093917923
+--Customer 8
+Arrival time : 246.87187153504306, Departure time : 392.2688639947074
+--Customer 9
+Arrival time : 281.7906078408399, Departure time : 436.8307813173442
+--Customer 10
+Arrival time : 317.5188508444813, Departure time : 496.18118861720865
+--Customer 11
+Arrival time : 324.90432828357285, Departure time : 497.25825878631093
+--Customer 12
+Arrival time : 362.6317422263324, Departure time : 554.8463438438923
+--Customer 13
+Arrival time : 390.94552884644054, Departure time : 601.6629092445446
+--Customer 14
+Arrival time : 421.36069788311374, Departure time : 649.1642243027686
+--Customer 15
+Arrival time : 442.24563420294544, Departure time : 673.4737099569247
+--Customer 16
+Arrival time : 477.552757035013, Departure time : 726.8998888504536
+--Customer 17
+Arrival time : 514.1309261977161, Departure time : 781.9249749818619
+--Customer 18
+Arrival time : 543.2923884540257, Departure time : 831.0244518550772
+--Customer 19
+Arrival time : 565.0204395886478, Departure time : 860.0466934472752
+--Customer 20
+Arrival time : 590.5398271303429, Departure time : 899.4628866062667
+--Customer 21
+Arrival time : 626.5968272735076, Departure time : 944.4343266679923
+--Customer 22
+Arrival time : 630.6479141453474, Departure time : 952.7040965250242
+--Customer 23
+Arrival time : 672.5073992907166, Departure time : 1016.1643976836815
+--Customer 24
+Arrival time : 714.6719140446212, Departure time : 1085.1240682290447
+--Customer 25
+Arrival time : 758.7458700789657, Departure time : 1152.1992136047065
+--Customer 26
+Arrival time : 777.1789825689667, Departure time : 1188.6154330965871
+--Customer 27
+Arrival time : 804.7621466951607, Departure time : 1218.0156468528899
+--Customer 28
+Arrival time : 838.7885224878908, Departure time : 1264.8171760258508
+--Customer 29
+Arrival time : 843.8790027783305, Departure time : 1281.1459257027482
+--Customer 30
+Arrival time : 873.063929206334, Departure time : 1322.5950732057775
+Mean of customers = 4.5733555509781
+Mean of delay time = 399.1597050522299
+Server utilization = 0.10570863055966644
+******************************************************* SIMULATION OF (4) ********
+--Number of delay : 9
+--Total delay : 4541.412533966841
+--Current simulation clock : 410.7694066002786
+Number of customers : 30
+Area under Q(t) : 2094.8554765345066
+Area under B(t) :-30.81059685900766
+--Customer 1
+Arrival time : 17.585713278196835, Departure time : 41.87000288994069
+--Customer 2
+Arrival time : 59.37163567853006, Departure time : 93.91590139227098
+--Customer 3
+Arrival time : 103.09855627312132, Departure time : 172.9017349715872
+--Customer 4
+Arrival time : 105.38376503935865, Departure time : 173.40463117805524
+--Customer 5
+Arrival time : 135.77280926713587, Departure time : 225.80947470913918
+--Customer 6
+Arrival time : 166.38546730047779, Departure time : 261.779302469969
+--Customer 7
+Arrival time : 172.94450749326205, Departure time : 268.20390963782035
+--Customer 8
+Arrival time : 218.08509488269732, Departure time : 341.62444066784985
+--Customer 9
+Arrival time : 264.13721838964, Departure time : 406.2388432999612
+--Customer 10
+Arrival time : 275.0249981276836, Departure time : 422.7922501352092
+--Customer 11
+Arrival time : 309.656890331286, Departure time : 479.79566845284637
+--Customer 12
+Arrival time : 345.67547875248283, Departure time : 537.0004830751983
+--Customer 13
+Arrival time : 372.34461661473574, Departure time : 571.9477679469593
+--Customer 14
+Arrival time : 396.71058755263346, Departure time : 605.9941788328761
+--Customer 15
+Arrival time : 397.3238232249837, Departure time : 605.2749571417528
+--Customer 16
+Arrival time : 425.4649293080389, Departure time : 647.4390132599881
+--Customer 17
+Arrival time : 464.8291023482699, Departure time : 702.0821304506643
+--Customer 18
+Arrival time : 503.7121156511494, Departure time : 773.1302037740629
+--Customer 19
+Arrival time : 507.4765902938003, Departure time : 781.2217793069506
+--Customer 20
+Arrival time : 541.2608668068299, Departure time : 819.1268259936255
+--Customer 21
+Arrival time : 582.8343740881182, Departure time : 885.6350812783592
+--Customer 22
+Arrival time : 600.8077282857771, Departure time : 908.3479454140236
+--Customer 23
+Arrival time : 639.4707273001036, Departure time : 974.2468763972054
+--Customer 24
+Arrival time : 671.9561429525047, Departure time : 1029.8631022087131
+--Customer 25
+Arrival time : 694.4769056344431, Departure time : 1055.6106968518343
+--Customer 26
+Arrival time : 719.5625811374803, Departure time : 1098.032710690079
+--Customer 27
+Arrival time : 749.7089252089738, Departure time : 1142.5162061845867
+--Customer 28
+Arrival time : 762.1435157045997, Departure time : 1158.7223000072665
+--Customer 29
+Arrival time : 790.4555091848272, Departure time : 1209.7167635862545
+--Customer 30
+Arrival time : 801.6226171207136, Departure time : 1210.5824876565325
+Mean of customers = 5.099833246766157
+Mean of delay time = 504.60139266298233
+Server utilization = -0.07500703889807835
+******************************************************* SIMULATION OF (5) ********
+--Number of delay : 8
+--Total delay : 2788.4276340638735
+--Current simulation clock : 442.31672296146934
+Number of customers : 30
+Area under Q(t) : 2236.6192558756056
+Area under B(t) :31.547316361190667
+--Customer 1
+Arrival time : 16.679353690297248, Departure time : 45.93333745020742
+--Customer 2
+Arrival time : 55.98247029608013, Departure time : 100.74437658349021
+--Customer 3
+Arrival time : 94.54386488233766, Departure time : 152.3469287147401
+--Customer 4
+Arrival time : 108.99354793742424, Departure time : 183.04261423944695
+--Customer 5
+Arrival time : 148.64682199770294, Departure time : 229.60161689103919
+--Customer 6
+Arrival time : 179.21051387456492, Departure time : 288.7156710038778
+--Customer 7
+Arrival time : 202.55776767767279, Departure time : 325.56189237139864
+--Customer 8
+Arrival time : 231.9130540088249, Departure time : 368.7001829095614
+--Customer 9
+Arrival time : 262.77469028928266, Departure time : 406.6842817593991
+--Customer 10
+Arrival time : 298.5518937883807, Departure time : 451.9390429161674
+--Customer 11
+Arrival time : 345.67313599645684, Departure time : 529.0300640343219
+--Customer 12
+Arrival time : 390.8855312668754, Departure time : 591.8103787167146
+--Customer 13
+Arrival time : 419.3551915796097, Departure time : 646.9850093961937
+--Customer 14
+Arrival time : 440.19841426680057, Departure time : 681.854999087413
+--Customer 15
+Arrival time : 472.2362978666776, Departure time : 721.31354649105
+--Customer 16
+Arrival time : 473.30258971839214, Departure time : 726.4384624167855
+--Customer 17
+Arrival time : 497.5106381750662, Departure time : 764.0190812520502
+--Customer 18
+Arrival time : 523.6557536247493, Departure time : 800.6876006561745
+--Customer 19
+Arrival time : 542.4386545313912, Departure time : 819.185911124657
+--Customer 20
+Arrival time : 586.0325321313676, Departure time : 888.8138771822826
+--Customer 21
+Arrival time : 629.8949530439174, Departure time : 955.8291327928686
+--Customer 22
+Arrival time : 640.8919640585773, Departure time : 981.971253106587
+--Customer 23
+Arrival time : 674.2244397585176, Departure time : 1016.911569473782
+--Customer 24
+Arrival time : 710.382442263967, Departure time : 1074.3291078687332
+--Customer 25
+Arrival time : 736.2513697998236, Departure time : 1126.2096394790767
+--Customer 26
+Arrival time : 754.9509739164266, Departure time : 1138.773983964739
+--Customer 27
+Arrival time : 785.2256926813552, Departure time : 1194.5566630155977
+--Customer 28
+Arrival time : 813.985248856289, Departure time : 1233.4005856054018
+--Customer 29
+Arrival time : 847.0619139901219, Departure time : 1289.3947267641772
+--Customer 30
+Arrival time : 873.2555538954115, Departure time : 1320.3738350971828
+Mean of customers = 5.0566011633036085
+Mean of delay time = 348.5534542579842
+Server utilization = 0.07132291121613049
+******************************************************* SIMULATION OF (6) ********
+--Number of delay : 9
+--Total delay : 4596.625459247963
+--Current simulation clock : 422.74692334863823
+Number of customers : 30
+Area under Q(t) : 2124.849441828634
+Area under B(t) :-36.80223717098664
+--Customer 1
+Arrival time : 18.202061176340543, Departure time : 35.43449873449599
+--Customer 2
+Arrival time : 54.55444297727826, Departure time : 102.18414155216911
+--Customer 3
+Arrival time : 91.33709741183772, Departure time : 155.78931361709883
+--Customer 4
+Arrival time : 130.61514514411286, Departure time : 207.908190771137
+--Customer 5
+Arrival time : 168.562484891996, Departure time : 267.91399654465204
+--Customer 6
+Arrival time : 207.52104234403487, Departure time : 328.1392603618357
+--Customer 7
+Arrival time : 245.71518000369872, Departure time : 388.91826679229354
+--Customer 8
+Arrival time : 253.5827162889526, Departure time : 402.01392774214725
+--Customer 9
+Arrival time : 284.29288756613477, Departure time : 437.29016451343284
+--Customer 10
+Arrival time : 314.49866326140807, Departure time : 487.5016200142753
+--Customer 11
+Arrival time : 322.0800793564438, Departure time : 503.0598816448344
+--Customer 12
+Arrival time : 353.29025360985304, Departure time : 547.1067883460041
+--Customer 13
+Arrival time : 383.1929471178047, Departure time : 583.0496853646663
+--Customer 14
+Arrival time : 410.0130619480849, Departure time : 631.0867489912068
+--Customer 15
+Arrival time : 444.6602023269891, Departure time : 679.0626451778436
+--Customer 16
+Arrival time : 467.58177457455037, Departure time : 720.4286572802578
+--Customer 17
+Arrival time : 485.898270908276, Departure time : 747.3733007474045
+--Customer 18
+Arrival time : 522.276244508294, Departure time : 796.3147652845679
+--Customer 19
+Arrival time : 557.4551214354332, Departure time : 857.914243381276
+--Customer 20
+Arrival time : 575.7077017682225, Departure time : 880.8717730478103
+--Customer 21
+Arrival time : 607.0862801849007, Departure time : 924.9532756247252
+--Customer 22
+Arrival time : 624.3552542786131, Departure time : 950.8556733324399
+--Customer 23
+Arrival time : 654.6237256714312, Departure time : 1000.3775791980648
+--Customer 24
+Arrival time : 679.1271501176318, Departure time : 1035.4082444211638
+--Customer 25
+Arrival time : 714.4149821589014, Departure time : 1079.2617284728835
+--Customer 26
+Arrival time : 716.9227005561568, Departure time : 1085.3811302481015
+--Customer 27
+Arrival time : 756.6887586439993, Departure time : 1142.2097361212275
+--Customer 28
+Arrival time : 776.7618913432678, Departure time : 1176.797150831483
+--Customer 29
+Arrival time : 812.076968613578, Departure time : 1240.0757561855971
+--Customer 30
+Arrival time : 835.0943017023038, Departure time : 1265.3817598538008
+Mean of customers = 5.026291912422214
+Mean of delay time = 510.7361621386625
+Server utilization = -0.08705500889153944
+******************************************************* SIMULATION OF (7) ********
+--Number of delay : 9
+--Total delay : 3436.5612569816994
+--Current simulation clock : 429.48313470570247
+Number of customers : 30
+Area under Q(t) : 1962.6458166974253
+Area under B(t) :6.736211357064178
+--Customer 1
+Arrival time : 11.027640718295853, Departure time : 29.19636193802075
+--Customer 2
+Arrival time : 36.84111386694913, Departure time : 65.42547958591845
+--Customer 3
+Arrival time : 69.87913095973897, Departure time : 123.41472233268831
+--Customer 4
+Arrival time : 81.83600713993172, Departure time : 129.32213496835337
+--Customer 5
+Arrival time : 127.29733224489381, Departure time : 207.17475416140817
+--Customer 6
+Arrival time : 127.47634382972815, Departure time : 210.03899994467585
+--Customer 7
+Arrival time : 168.48830830181592, Departure time : 263.10132400068295
+--Customer 8
+Arrival time : 214.62716721156977, Departure time : 334.6037452225916
+--Customer 9
+Arrival time : 223.12162602821053, Departure time : 341.00135519744254
+--Customer 10
+Arrival time : 263.9237136714974, Departure time : 404.94102988583984
+--Customer 11
+Arrival time : 305.3806243134004, Departure time : 462.01856865394257
+--Customer 12
+Arrival time : 331.5062680845148, Departure time : 516.7189911173093
+--Customer 13
+Arrival time : 366.78160556438945, Departure time : 560.3375315360319
+--Customer 14
+Arrival time : 404.09567296868454, Departure time : 619.5059537442799
+--Customer 15
+Arrival time : 447.9597950953695, Departure time : 683.0578715768322
+--Customer 16
+Arrival time : 489.08744980873803, Departure time : 745.9238368491924
+--Customer 17
+Arrival time : 501.8658963275851, Departure time : 761.0092306825372
+--Customer 18
+Arrival time : 538.3128371350853, Departure time : 819.8382067672876
+--Customer 19
+Arrival time : 575.6944215802166, Departure time : 874.7513020010806
+--Customer 20
+Arrival time : 579.4768421289248, Departure time : 873.6573482863325
+--Customer 21
+Arrival time : 603.5486729556033, Departure time : 914.8876569780391
+--Customer 22
+Arrival time : 641.447988185912, Departure time : 974.3169841537131
+--Customer 23
+Arrival time : 673.3280472088499, Departure time : 1034.144525270298
+--Customer 24
+Arrival time : 702.1273383935536, Departure time : 1067.340324028426
+--Customer 25
+Arrival time : 732.1560563365772, Departure time : 1112.1483026770159
+--Customer 26
+Arrival time : 733.1924562337354, Departure time : 1109.535429673791
+--Customer 27
+Arrival time : 763.6558392202321, Departure time : 1159.376678661898
+--Customer 28
+Arrival time : 793.2221405717953, Departure time : 1200.1710561476907
+--Customer 29
+Arrival time : 815.3602546067691, Departure time : 1233.181036483248
+--Customer 30
+Arrival time : 845.53121274866, Departure time : 1284.7462179507293
+Mean of customers = 4.569785535449028
+Mean of delay time = 381.8401396646333
+Server utilization = 0.015684460722025968
+******************************************************* SIMULATION OF (8) ********
+--Number of delay : 10
+--Total delay : 4887.685911117399
+--Current simulation clock : 426.41920770680224
+Number of customers : 30
+Area under Q(t) : 2020.366070994776
+Area under B(t) :-3.0639269989002287
+--Customer 1
+Arrival time : 21.65543855049286, Departure time : 49.306148723701035
+--Customer 2
+Arrival time : 61.1696021361725, Departure time : 98.04215041970949
+--Customer 3
+Arrival time : 93.79051128890296, Departure time : 158.21671135858384
+--Customer 4
+Arrival time : 110.23264132449968, Departure time : 178.26133121179782
+--Customer 5
+Arrival time : 133.98460876906543, Departure time : 218.9174342539427
+--Customer 6
+Arrival time : 164.77643130257806, Departure time : 267.05494886856
+--Customer 7
+Arrival time : 165.38873225172816, Departure time : 259.9220942850678
+--Customer 8
+Arrival time : 197.529116352958, Departure time : 312.9297006041192
+--Customer 9
+Arrival time : 232.77536727481026, Departure time : 361.04633619830565
+--Customer 10
+Arrival time : 263.30827384024883, Departure time : 407.01578103076235
+--Customer 11
+Arrival time : 280.0470241336561, Departure time : 433.8187963617133
+--Customer 12
+Arrival time : 312.46440225070523, Departure time : 479.32511544277634
+--Customer 13
+Arrival time : 339.53942932454737, Departure time : 519.7268399263837
+--Customer 14
+Arrival time : 375.0970293756975, Departure time : 575.6911598324456
+--Customer 15
+Arrival time : 387.18114279569875, Departure time : 595.2627308078229
+--Customer 16
+Arrival time : 419.2733537575457, Departure time : 649.1764030928712
+--Customer 17
+Arrival time : 452.1916763379454, Departure time : 682.9550731806337
+--Customer 18
+Arrival time : 467.6449118422884, Departure time : 708.0128471531357
+--Customer 19
+Arrival time : 497.43925630930727, Departure time : 760.376916141691
+--Customer 20
+Arrival time : 517.3657587526081, Departure time : 794.0428566765435
+--Customer 21
+Arrival time : 554.6312205929671, Departure time : 841.2070105590346
+--Customer 22
+Arrival time : 592.0433849147976, Departure time : 907.1188965701142
+--Customer 23
+Arrival time : 626.092344349173, Departure time : 952.1608540314126
+--Customer 24
+Arrival time : 627.1244288041343, Departure time : 950.285811239591
+--Customer 25
+Arrival time : 660.6636936674278, Departure time : 1012.5002084580104
+--Customer 26
+Arrival time : 701.0756884602199, Departure time : 1059.475225871174
+--Customer 27
+Arrival time : 743.7622468107363, Departure time : 1131.6766596774405
+--Customer 28
+Arrival time : 788.775623297294, Departure time : 1192.1013257529737
+--Customer 29
+Arrival time : 835.3352668383382, Departure time : 1257.150255732014
+--Customer 30
+Arrival time : 838.146556098774, Departure time : 1270.0567969208628
+Mean of customers = 4.737980922247624
+Mean of delay time = 488.7685911117399
+Server utilization = -0.0071852462166923
+******************************************************* SIMULATION OF (9) ********
+--Number of delay : 10
+--Total delay : 4325.606576371917
+--Current simulation clock : 486.62777953716693
+Number of customers : 30
+Area under Q(t) : 2121.257175473474
+Area under B(t) :60.20857183036475
+--Customer 1
+Arrival time : 13.364598437710827, Departure time : 34.864333509840996
+--Customer 2
+Arrival time : 38.60636885576582, Departure time : 75.03381049115214
+--Customer 3
+Arrival time : 64.18209328514689, Departure time : 115.4415217268872
+--Customer 4
+Arrival time : 87.6470541343682, Departure time : 146.13544661560442
+--Customer 5
+Arrival time : 118.02686490556466, Departure time : 200.14629981722362
+--Customer 6
+Arrival time : 145.43035679891955, Departure time : 228.75102691096697
+--Customer 7
+Arrival time : 192.47314270805774, Departure time : 296.2905628508761
+--Customer 8
+Arrival time : 232.96410154935893, Departure time : 358.2758792882422
+--Customer 9
+Arrival time : 236.01157061106392, Departure time : 373.042194928159
+--Customer 10
+Arrival time : 273.3730178791145, Departure time : 418.5611144445245
+--Customer 11
+Arrival time : 321.53562068944393, Departure time : 485.2139219374636
+--Customer 12
+Arrival time : 345.45807673339664, Departure time : 541.6256657406025
+--Customer 13
+Arrival time : 376.80352491516953, Departure time : 574.1527198292785
+--Customer 14
+Arrival time : 419.3394638047943, Departure time : 647.4857904398707
+--Customer 15
+Arrival time : 444.1987545052415, Departure time : 682.6013852242974
+--Customer 16
+Arrival time : 487.27100029828017, Departure time : 742.3490855390382
+--Customer 17
+Arrival time : 534.5361466962668, Departure time : 819.711383286701
+--Customer 18
+Arrival time : 538.386336451967, Departure time : 826.4674247860321
+--Customer 19
+Arrival time : 572.0633240281637, Departure time : 876.2706494414651
+--Customer 20
+Arrival time : 610.4856607478905, Departure time : 924.8637919012563
+--Customer 21
+Arrival time : 657.324071638458, Departure time : 996.8757061735894
+--Customer 22
+Arrival time : 693.6576071391639, Departure time : 1055.4342276131008
+--Customer 23
+Arrival time : 729.5124866065594, Departure time : 1107.7201753126083
+--Customer 24
+Arrival time : 765.1177491038434, Departure time : 1167.9228570343978
+--Customer 25
+Arrival time : 797.5505109921869, Departure time : 1209.1863627668388
+--Customer 26
+Arrival time : 813.2302499999153, Departure time : 1235.6218162090113
+--Customer 27
+Arrival time : 859.3157329497071, Departure time : 1296.4362537596448
+--Customer 28
+Arrival time : 905.8349419670915, Departure time : 1368.7168990918549
+--Customer 29
+Arrival time : 946.7089926650327, Departure time : 1426.9198755214131
+--Customer 30
+Arrival time : 956.6997466560665, Departure time : 1453.4410244789935
+Mean of customers = 4.359095934660795
+Mean of delay time = 432.5606576371917
+Server utilization = 0.12372612983095477
+******************************************************* SIMULATION OF (10) ********
+--Number of delay : 9
+--Total delay : 4596.0993460199925
+--Current simulation clock : 409.8630608865624
+Number of customers : 30
+Area under Q(t) : 2040.0015732631637
+Area under B(t) :-76.7647186506046
+--Customer 1
+Arrival time : 20.665476088861205, Departure time : 36.87252546190822
+--Customer 2
+Arrival time : 53.3203349537915, Departure time : 103.81731116211446
+--Customer 3
+Arrival time : 76.49509458368858, Departure time : 133.79638024367358
+--Customer 4
+Arrival time : 87.58455811844426, Departure time : 140.48088523275482
+--Customer 5
+Arrival time : 125.33485678628074, Departure time : 200.16247568690304
+--Customer 6
+Arrival time : 163.01767645048767, Departure time : 259.4043893690845
+--Customer 7
+Arrival time : 186.88194470116312, Departure time : 294.58811367662145
+--Customer 8
+Arrival time : 231.6560588124034, Departure time : 365.2360118666379
+--Customer 9
+Arrival time : 267.60816484862437, Departure time : 424.2260866169162
+--Customer 10
+Arrival time : 302.1692065516506, Departure time : 458.9086346363664
+--Customer 11
+Arrival time : 310.15961168998564, Departure time : 488.3262362874558
+--Customer 12
+Arrival time : 340.4744253962609, Departure time : 529.8049053691232
+--Customer 13
+Arrival time : 373.5780592906691, Departure time : 576.8176450136643
+--Customer 14
+Arrival time : 411.47088343377095, Departure time : 632.2481828837699
+--Customer 15
+Arrival time : 460.11246324197225, Departure time : 696.9923631804347
+--Customer 16
+Arrival time : 497.4219880845189, Departure time : 766.8670202947596
+--Customer 17
+Arrival time : 529.3295905206567, Departure time : 813.7117222411155
+--Customer 18
+Arrival time : 539.463779393045, Departure time : 818.2253650957888
+--Customer 19
+Arrival time : 570.9870817944818, Departure time : 877.9763018443065
+--Customer 20
+Arrival time : 602.4430660756047, Departure time : 916.8147754086988
+--Customer 21
+Arrival time : 604.7621242129809, Departure time : 915.7090674936071
+--Customer 22
+Arrival time : 628.2101343274317, Departure time : 955.352368819975
+--Customer 23
+Arrival time : 654.7700642629405, Departure time : 1000.0446185620764
+--Customer 24
+Arrival time : 676.1224976378627, Departure time : 1038.885460311283
+--Customer 25
+Arrival time : 701.1476273739772, Departure time : 1061.934426265543
+--Customer 26
+Arrival time : 736.0909975090157, Departure time : 1124.2044644760576
+--Customer 27
+Arrival time : 750.6036090046678, Departure time : 1136.7668326671605
+--Customer 28
+Arrival time : 773.9511082359338, Departure time : 1179.111873801616
+--Customer 29
+Arrival time : 806.9154491635845, Departure time : 1226.911960007895
+--Customer 30
+Arrival time : 809.5711871672444, Departure time : 1218.982313113663
+Mean of customers = 4.977275992743767
+Mean of delay time = 510.6777051133325
+Server utilization = -0.18729357674867594
+************************************************
